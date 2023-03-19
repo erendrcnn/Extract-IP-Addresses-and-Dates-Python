@@ -1,6 +1,4 @@
-# METIN EREN DURUCAN - 201101038 - HW3 (TASK1)
-
-# NOT : 100
+# IP & Date Extracter (v0.1)
 
 import re
 
